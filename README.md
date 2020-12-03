@@ -1,9 +1,10 @@
 # P2Waves
-Github Repository for APCSP P2Waves Group Project
-_________________________________________________
+# Github Repository for APCSP P2Waves Group Project
+```
 Objectives so far...
-Learn to use terminal to effectively access and edit files
-Implement data such as GET and POST, databases, CRUD (Create, Read, Update, Delete) into this repository
-_________________________________________________
+-Learn to use terminal to effectively access and edit files
+-Implement data such as GET and POST, databases, CRUD (Create, Read, Update, Delete) into this repository
+```
 
-This repository will be used to commit changes to our code amongst Team members.
+## Map of project to AP CSP requirements
+[Computer Science Principlse Course Cpnten description pages 19, 20, 21](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles)
