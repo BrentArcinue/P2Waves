@@ -6,7 +6,7 @@ Objectives so far...
 -Implement data such as GET and POST, databases, CRUD (Create, Read, Update, Delete) into this repository
 ```
 ## Links
-[Journal] (https://docs.google.com/document/d/1SVI2qjMwwGs7KVzgL3I4nsCijlh7uOEzS4zT9CkGF48/edit?usp=sharing)
+[Journal](https://docs.google.com/document/d/1SVI2qjMwwGs7KVzgL3I4nsCijlh7uOEzS4zT9CkGF48/edit?usp=sharing)
 
 [Scrum Board](https://github.com/users/Cody-Peng/projects/1)
 
