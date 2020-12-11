@@ -18,5 +18,5 @@ Objectives so far...
 
 ## Code Improvements
 
--README.md updated with Scrum Board, Journal, and Project Plan
--HTML and Python will begin development on week 12/14/20 - 12/18/20
+- README.md updated with Scrum Board, Journal, and Project Plan
+- HTML and Python will begin development on week 12/14/20 - 12/18/20
