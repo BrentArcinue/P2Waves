@@ -15,3 +15,8 @@ Objectives so far...
 
 ## Map of project to AP CSP requirements
 [Computer Science Principlse Course Cpnten description pages 19, 20, 21](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles)
+
+## Code Improvements
+
+-README.md updated with Scrum Board, Journal, and Project Plan
+-HTML and Python will begin development on week 12/14/20 - 12/18/20
