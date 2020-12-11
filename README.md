@@ -10,5 +10,7 @@ Objectives so far...
 
 [Scrum Board](https://github.com/users/Cody-Peng/projects/1)
 
+[Project Plan](https://docs.google.com/document/d/1bAMUZDqt29ACzf7KTDVZbvbRk3MSPUgQhg0wlJF35P4/edit?pli=1#)
+
 ## Map of project to AP CSP requirements
 [Computer Science Principlse Course Cpnten description pages 19, 20, 21](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles)
