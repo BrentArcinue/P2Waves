@@ -6,7 +6,7 @@ body{
     background-position: center;
     font-family: sans-serif;
 }
-
+/* loginbox */
 .loginbox{
     width: 320px;
     height: 420px;
@@ -20,6 +20,7 @@ body{
     padding: 70px 30px;
 }
 
+/* avatar */
 .avatar{
     width: 100px;
     height: 100px;
@@ -29,6 +30,7 @@ body{
     left: calc(50% - 50px);
 }
 
+/* h1 */
 h1{
     margin: 0;
     padding: 0 0 20px;
@@ -42,6 +44,7 @@ h1{
     font-weight: bold;
 }
 
+/* input */
 .loginbox input{
     width: 100%;
     margin-bottom: 20px;
