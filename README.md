@@ -6,6 +6,11 @@ Objectives so far...
 - Learn how to properly implement aesthetically pleasing UI
 - Implement data such as GET and POST, SQL Alchemy Databases, CRUD (Create, Read, Update, Delete) into this repository
 
+Goals for week of 12/14 to 12/18 (All Acomplished 12/18):
+- make a plan for how we are going to make our database
+- find a template to use to construct the site and make it easier to put the games in
+- make a login page that pops up for the user when they open the site
+
 ## Links
 [Journal](https://docs.google.com/document/d/1SVI2qjMwwGs7KVzgL3I4nsCijlh7uOEzS4zT9CkGF48/edit?usp=sharing)
 
