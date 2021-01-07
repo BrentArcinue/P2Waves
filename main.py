@@ -4,6 +4,7 @@ app = Flask(__name__)
 
 
 # home screen
+
 @app.route("/home")
 @app.route("/")
 def home():
