@@ -3,13 +3,17 @@
 
 Objectives so far...
 - Learn to use terminal to effectively access and edit files
-- Learn how to properly implement aesthetically pleasing UI
 - Implement data such as GET and POST, SQL Alchemy Databases, CRUD (Create, Read, Update, Delete) into this repository
+- Functioning Login Page
 
 Goals for week of 12/14 to 12/18 (All Acomplished 12/18):
 - Make a plan for how we are going to make our database
 - Find a template to use to construct the site and make it easier to put the games in
 - Make a login page that pops up for the user when they open the site
+
+Goals for week of 1/10/20 to 1/15/20:
+- Make a working Login Page
+- Starting on Database
 
 ## Links
 [Journal](https://docs.google.com/document/d/1SVI2qjMwwGs7KVzgL3I4nsCijlh7uOEzS4zT9CkGF48/edit?usp=sharing)
@@ -25,3 +29,4 @@ Goals for week of 12/14 to 12/18 (All Acomplished 12/18):
 
 - README.md updated with Scrum Board, Journal, and Project Plan
 - HTML and Python will begin development on week 12/14/20 - 12/18/20
+- 12/18/20 Login and Home HTML Implemented
