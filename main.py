@@ -21,3 +21,7 @@ def game1_route():
 @app.route('/project/game2')
 def game2_route():
     return render_template("game2.html")
+
+@app.route('/maintemplate')
+def maintemplate():
+    return render_template("maintemplate.html")
