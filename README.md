@@ -1,5 +1,6 @@
 # P2Waves
 ## Github Repository for APCSP P2Waves Group Project
+### Username: P2Waves | Password: RV7vSJ
 
 Objectives so far...
 - Learn to use terminal to effectively access and edit files
