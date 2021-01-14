@@ -8,12 +8,6 @@ app = Flask(__name__)
 def home():
     return render_template("home.html")
 
-@app.route("/")
-def login():
-    return render_template("login.html")
-if __name__ == "__main__":
-    app.run(debug=True, host = '127.0.0.1',port='3001')
-
 @app.route('/project/game1')
 def game1_route():
     return render_template("game1.html")
@@ -25,3 +19,9 @@ def game2_route():
 @app.route('/maintemplate')
 def maintemplate():
     return render_template("maintemplate.html")
+
+@app.route("/")
+def login():
+    return render_template("login.html")
+if __name__ == "__main__":
+    app.run(debug=True, host = '127.0.0.1',port='3001')
