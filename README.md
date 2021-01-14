@@ -5,7 +5,6 @@
 Objectives so far...
 - Learn to use terminal to effectively access and edit files
 - Implement data such as GET and POST, SQL Alchemy Databases, CRUD (Create, Read, Update, Delete) into this repository
-- Functioning Login Page
 
 Goals for week of 12/14 to 12/18 (All Acomplished 12/18):
 - Make a plan for how we are going to make our database
