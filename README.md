@@ -30,3 +30,4 @@ Goals for week of 1/10/20 to 1/15/20:
 - README.md updated with Scrum Board, Journal, and Project Plan
 - HTML and Python will begin development on week 12/14/20 - 12/18/20
 - 12/18/20 Login and Home HTML Implemented
+- 1/14/21 Working Login with redirect
