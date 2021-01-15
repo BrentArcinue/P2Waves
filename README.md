@@ -20,6 +20,7 @@ Completed Goals for week of 1/10/20 to 1/15/20:
 Ticket Assignment
 - (Tickets and Descriptions in the "DONE" section of the scrum board linked below) 
  - Tickets 1, 2, and 3 all focused on the setup of the login and getting the login page to run and properly redirect to the database when running through main.py
+ - Ticket 4 is making all of the pages' interface on the database
 
 ## Links
 [Journal](https://docs.google.com/document/d/1SVI2qjMwwGs7KVzgL3I4nsCijlh7uOEzS4zT9CkGF48/edit?usp=sharing)
