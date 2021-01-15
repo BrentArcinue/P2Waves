@@ -18,7 +18,7 @@ Completed Goals for week of 1/10/20 to 1/15/20:
 - Set up a username and password
 - Make game files on database
 - (Tickets and Descriptions in the "DONE" section of the scrum board linked below) 
- - Tickets 1,2 and 3 all focused on the setup of the login and getting the login page to run and properly redirect to the database when running through main.py
+ - Tickets 1, 2, and 3 all focused on the setup of the login and getting the login page to run and properly redirect to the database when running through main.py
 
 ## Links
 [Journal](https://docs.google.com/document/d/1SVI2qjMwwGs7KVzgL3I4nsCijlh7uOEzS4zT9CkGF48/edit?usp=sharing)
