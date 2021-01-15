@@ -14,8 +14,10 @@ Goals for week of 12/14 to 12/18 (All Acomplished 12/18):
 Completed Goals for week of 1/10/20 to 1/15/20:
 - Make a working Login Page
 - Starting on Database
-- With correct username and password, the login page needs to redirect to the database
+- With correct username and password, the login page needs to redirect to the database (biggest goal completed for the week)
 - Make game files on database
+
+Ticket Assignment
 - (Tickets and Descriptions in the "DONE" section of the scrum board linked below) 
  - Tickets 1, 2, and 3 all focused on the setup of the login and getting the login page to run and properly redirect to the database when running through main.py
 
