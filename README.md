@@ -17,7 +17,7 @@ Completed Goals for week of 1/10/20 to 1/15/20:
 - Link the login page to the database
 - Set up a username and password
 - Make game files on database
-- (Tickets and Descriptions in the "DONE" section of the scrum board linked below) -
+- (Tickets and Descriptions in the "DONE" section of the scrum board linked below) 
 
 ## Links
 [Journal](https://docs.google.com/document/d/1SVI2qjMwwGs7KVzgL3I4nsCijlh7uOEzS4zT9CkGF48/edit?usp=sharing)
