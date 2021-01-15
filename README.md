@@ -11,9 +11,12 @@ Goals for week of 12/14 to 12/18 (All Acomplished 12/18):
 - Find a template to use to construct the site and make it easier to put the games in
 - Make a login page that pops up for the user when they open the site
 
-Goals for week of 1/10/20 to 1/15/20:
+Completed Goals for week of 1/10/20 to 1/15/20:
 - Make a working Login Page
 - Starting on Database
+- Link the login page to the database
+- Set up a username and password
+- Make game files on database
 
 ## Links
 [Journal](https://docs.google.com/document/d/1SVI2qjMwwGs7KVzgL3I4nsCijlh7uOEzS4zT9CkGF48/edit?usp=sharing)
